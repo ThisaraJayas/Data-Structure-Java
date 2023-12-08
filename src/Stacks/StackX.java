@@ -30,7 +30,7 @@ public class StackX {
         }else {
             int popval = StackArray[top];
             top--;
-            System.out.println("POPED");
+            System.out.println("POPEDs");
             return popval;
         }
     }
